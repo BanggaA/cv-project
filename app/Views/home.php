@@ -48,7 +48,7 @@
 							<p>
 								<ul class="fh5co-social-icons">
 									<li><a href="#"><i class="icon-twitter2"></i></a></li>
-									<li><a href="#"><i class="icon-facebook2"></i></a></li>
+									<li><a href="https://github.com/BanggaA"><i class="icon-github"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/bangga-angkasa/"><i class="icon-linkedin2"></i></a></li>
 								</ul>
 							</p>
@@ -82,7 +82,7 @@
 					<p>
 						<ul class="fh5co-social-icons">
 							<li><a href="#"><i class="icon-twitter2"></i></a></li>
-							<li><a href="#"><i class="icon-facebook3"></i></a></li>
+							<li><a href="https://github.com/BanggaA"><i class="icon-github2"></i></a></li>
 							<li><a href="https://www.linkedin.com/in/bangga-angkasa/"><i class="icon-linkedin2"></i></a></li>
 						</ul>
 					</p>
@@ -193,7 +193,7 @@
 								<i class="icon-database"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>database developer</h3>
+								<h3>database designer</h3>
 								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 							</div>
 						</div>
@@ -205,7 +205,7 @@
 								<i class="icon-pen"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Analytics</h3>
+								<h3>UI / UX</h3>
 								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 							</div>
 						</div>
@@ -341,7 +341,7 @@
 
 	
 	<div id="fh5co-consult">
-		<div class="video fh5co-video" style="background-image: url(images/cover_bg_1.jpg);">
+		<div class="video fh5co-video" style="background-image: url(<?= base_url()?>/assets/images/cover_bg_1.jpg);">
 			<div class="overlay"></div>
 		</div>
 		<div class="choose animate-box">
