@@ -72,7 +72,7 @@
 						<li><span class="first-block">Full Name:</span><span class="second-block">Bangga angkasa</span></li>
 						<li><span class="first-block">Phone:</span><span class="second-block">+62 852 8053 5054</span></li>
 						<li><span class="first-block">Email:</span><span class="second-block">bangga.angkasa@gmail.com</span></li>
-						<li><span class="first-block">domisili:</span><span class="second-block">sukabumi jawa barat, indonesia</span></li>
+						<li><span class="first-block">city:</span><span class="second-block">sukabumi jawa barat, indonesia</span></li>
 					</ul>
 				</div>
 				<div class="col-md-8">
